@@ -1,0 +1,5 @@
+0. do keyboard layout
+1. increase font Kali terminal, pick font
+2. reduce transparency
+3. firefox extensions
+4. configure foxyproxy & burp suite

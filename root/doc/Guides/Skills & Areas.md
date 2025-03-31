@@ -1,0 +1,8 @@
+- TFM (2h)
+- Windows Pentesting (2h)
+- Linux Pentesting (2h)
+- Offensive PowerShell (2h)
+- Offensive Python (2h) / Vim (1h) / Helix / Zed / VScode
+- Fish aliases and config (1h)
+- Scripts / Deploy (1h)
+- Obsidian / Bookmarks (1h)
