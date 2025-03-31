@@ -1,0 +1,13 @@
+1. Parallels Desktop -> Kali -> Root Terminal Emulator -> Split into 4 -> VPNs
+2. Burp Suite
+3. OrbStack
+4. Each one in its own virtual desktop
+
+- do aliases
+- add target to a targets file with setTarget that empties it, and then nmapTCP and nmapUDP will read the entries from there
+- do env vars
+
+- start organizing payloads and all of that
+- same with obsidian
+
+- template for oscp
